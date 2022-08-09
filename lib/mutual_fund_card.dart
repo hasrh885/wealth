@@ -61,13 +61,13 @@ class _MutualFundState extends State<MutualFund> {
                             const Divider(),
                             Column(
                               children: const [
-                                Text("\u{20B9} 51,30378",
+                                Text("\u{20B9} 45,00,000",
                                     style: TextStyle(
                                         color: Colors.white, fontSize: 14)),
                                 SizedBox(
                                   height: 15,
                                 ),
-                                Text("Current Value ",
+                                Text("Invested Vlaue",
                                     style: TextStyle(
                                         color: Colors.white, fontSize: 12)),
                               ],
@@ -77,13 +77,13 @@ class _MutualFundState extends State<MutualFund> {
                             ),
                             Column(
                               children: const [
-                                Text("\u{20B9} 51,30378",
+                                Text(" ",
                                     style: TextStyle(
                                         color: Colors.white, fontSize: 14)),
                                 SizedBox(
                                   height: 15,
                                 ),
-                                Text("Current Value ",
+                                Text(" ",
                                     style: TextStyle(
                                         color: Colors.white, fontSize: 12)),
                               ],
@@ -93,13 +93,13 @@ class _MutualFundState extends State<MutualFund> {
                             ),
                             Column(
                               children: const [
-                                Text("\u{20B9} 51,30378",
+                                Text("\u{20B9} 6,30,000",
                                     style: TextStyle(
                                         color: Colors.white, fontSize: 14)),
                                 SizedBox(
                                   height: 15,
                                 ),
-                                Text("Current Value ",
+                                Text("Gain/Loss",
                                     style: TextStyle(
                                         color: Colors.white, fontSize: 12)),
                               ],
